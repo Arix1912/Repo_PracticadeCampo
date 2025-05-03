@@ -1,0 +1,4 @@
+print("Bienvenidos a la calculadora suma")
+x = input("ingrese primer numero")
+y= input("ingrese segundo numero")
+print("Resultado: "+(x+y))
