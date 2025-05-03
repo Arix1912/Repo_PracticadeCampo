@@ -3,3 +3,6 @@ x = input("ingrese primer numero")
 y = input("ingrese segundo numero")
 z = input("ingrese tercer numero")
 print("Resultado: ",(x+y+z))
+y= input("ingrese segundo numero")
+suma = x+y
+print("Resultado: ",suma)
