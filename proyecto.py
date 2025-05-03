@@ -2,7 +2,5 @@ print("Bienvenidos a la calculadora suma")
 x = input("ingrese primer numero")
 y = input("ingrese segundo numero")
 z = input("ingrese tercer numero")
-print("Resultado: ",(x+y+z))
-y= input("ingrese segundo numero")
-suma = x+y
+suma = x+y+z
 print("Resultado: ",suma)
